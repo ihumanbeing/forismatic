@@ -1,4 +1,5 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/ihumanbeing/forismatic/blob/master/LICENSE.txt)
+
 An unofficial API wrapper for the forismatic.com API.
 
 # Installation
